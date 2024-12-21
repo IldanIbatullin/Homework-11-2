@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "homework 11-2"
+version = "0.1.0"
+description = ""
+authors = ["Ildan Ibatullin <rustam162606@yandex.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
