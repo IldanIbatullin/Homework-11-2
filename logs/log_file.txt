@@ -1,0 +1,2 @@
+adds ok
+adds error: unsupported operand type(s) for +: 'int' and 'str'. Inputs: (4, 'a'), {}
